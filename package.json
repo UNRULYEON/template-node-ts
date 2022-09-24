@@ -1,6 +1,6 @@
 {
   "name": "APPLICATION_NAME",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "APPLICATION_DESC",
   "main": "index.js",
   "repository": "REPO_SSH_URL",
