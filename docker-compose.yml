@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  APPLICATION_NAME:
+    container_name: APPLICATION_NAME
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    restart: unless-stopped
+    ports:
+      - 3000:3000
+    command: yarn start:prod
