@@ -9,6 +9,24 @@ This is a template for a Node application written with TypeScript. This template
 - License (MIT)
 - Contributing guide
 
+## How to clone/fork this template
+
+There are two ways of using this template: cloning or making a fork. Forking is easier, but if you don't want any reference to this repo, feel free to clone it.
+
+### Forking
+
+1. Create a fork of this repo with [https://github.com/UNRULYEON/template-node-ts/fork](https://github.com/UNRULYEON/template-node-ts/fork)
+2. Create a new repo using the forked template with [https://github.com/new](https://github.com/new)
+
+### Cloning
+
+1. Download the latest release [here](https://github.com/UNRULYEON/template-node-ts/releases)
+2. Set up your own repo and copy the contents to the repo
+3. Enable `Template repository` in the settings of your repo
+4. Create a new repo using the forked template with [https://github.com/new](https://github.com/new)
+
+## After cloning/forking this template
+
 After creating a repository from this template, go through this checklist and search for all the keywords and change them to whatever you like:
 
 - [ ] Changed `APPLICATION_NAME` to the application name
